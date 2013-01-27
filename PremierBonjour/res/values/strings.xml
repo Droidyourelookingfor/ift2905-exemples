@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">PremierBonjour</string>
-    <string name="hello_world">Salut tout le monde!</string>
+    <string name="hello_world">Salut tout le monde! Ca roule????</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
